@@ -13,7 +13,9 @@ public class s1_1
         String str = in.next();
 
         ArrayDeque<Integer> stack=new ArrayDeque<>();
+
         
+        //meow
 
         
 
